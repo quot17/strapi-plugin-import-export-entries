@@ -47,7 +47,7 @@
     "@babel/preset-react": "^7.17.12",
     "@faker-js/faker": "^7.5.0",
     "@strapi/plugin-i18n": "^4.19.0",
-    "@strapi/plugin-seo": "^1.8.0",
+    "@strapi/plugin-seo": "1.9.8",
     "@strapi/plugin-users-permissions": "^4.19.0",
     "@strapi/strapi": "^4.19.0",
     "@types/fs-extra": "^11.0.1",
